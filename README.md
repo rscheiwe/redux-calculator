@@ -2,15 +2,15 @@ This is a calculator application built with React that uses Redux to handle stat
 
 ## Getting Started:
 
-1. Fork and clone this repo, CD into the folder in your terminal, and run npm install.
+1. Fork and clone this repo, CD into the folder in your terminal, and run 'npm install'.
 
-2. After you've downloaded the dependencies, run npm start. The application will launch in your browser on the local server. 
+2. After you've downloaded the dependencies, run 'npm start'. The application will launch in the browser on your local server. 
 
 ## To Use:
 
 - The calculator does basic arithmetic operations: add, subtract, multiply, and divide.
 
-- Use the +/- button to change the sign of the entered number 
+- Use the +/- button to change the sign of the entered number .
 
 - To save a number, type or calculate it onto the screen, press MS, and then select the number you'd like to save it to. 
 
