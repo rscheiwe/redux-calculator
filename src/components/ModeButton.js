@@ -3,7 +3,7 @@ import React from 'react'
 import { connect } from 'react-redux'
 
 //actions
-import { setMode, setFirstNumber, setSecondNumber } from '../store'
+import { setMode, setFirstNumber, setSecondNumber } from '../actions/actions'
 
 const ModeButton = ({mode, stateMode, a, b, setMode, setFirstNumber, setSecondNumber}) => {
 
